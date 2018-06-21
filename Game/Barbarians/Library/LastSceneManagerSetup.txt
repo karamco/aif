@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Barbarians - Production/Home.unity
+- path: Assets/Abdallah A - Freelancer/main_image_placement.unity
   isLoaded: 1
   isActive: 1
